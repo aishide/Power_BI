@@ -2,6 +2,14 @@
 
 A curated collection of end-to-end **Power BI** dashboards, automated reporting solutions, DAX calculation libraries, and dimensional data models designed to transform raw business data into actionable visual insights[cite: 1].
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+[![Power Query](https://img.shields.io/badge/ETL-Power%20Query%20M-FF5722?style=for-the-badge&logo=databricks&logoColor=white)](https://powerquery.microsoft.com/)
+[![Star Schema](https://img.shields.io/badge/Data%20Model-Star%20Schema-9C27B0?style=for-the-badge&logo=diagram&logoColor=white)](#-data-architecture--star-schema)
+[![Status](https://img.shields.io/badge/Project%20Status-Complete%20%E2%9C%94%EF%B8%8F-00E676?style=for-the-badge&logo=checkmarx&logoColor=black)](#)
+
+<br/>
+
 ---
 
 ## 📑 Table of Contents[cite: 1]
