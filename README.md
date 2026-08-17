@@ -1,227 +1,284 @@
-# 📊 Power BI Analytics & Business Intelligence
+# 📊 POWER BI
+
+# Analytics & Business Intelligence
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-Business%20Intelligence-5B5CE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interactive-Dashboards-00A67E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/POWER%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DATA-INSIGHTS-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUSINESS-INTELLIGENCE-00A67E?style=for-the-badge"/>
 </p>
 
-<h3 align="center">
-Turning Data into Decisions 🚀
-</h3>
+<p align="center">
+  <b>From raw data → intelligent analytics → actionable business decisions.</b>
+</p>
 
 <p align="center">
-A collection of interactive <b>Power BI dashboards</b> designed to transform raw business data into meaningful insights, actionable KPIs, and decision-ready intelligence.
+  <i>A collection of interactive Power BI dashboards built to explore business performance, uncover patterns, and turn complex data into clear visual stories.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="90"/>
 </p>
 
 ---
 
-## ✨ Dashboard Collection
+## 🧭 Dashboard Universe
 
-| Dashboard                           | Domain           | Focus                                                      |
-| ----------------------------------- | ---------------- | ---------------------------------------------------------- |
-| 🛒 **FreshBasket Dashboard**        | Retail / Grocery | Sales, customers, products & performance                   |
-| 🍔 **Food Ordering Dashboard**      | Food & Delivery  | Orders, revenue, customers & delivery analytics            |
-| 🚚 **BI Supply Chain Intelligence** | Supply Chain     | Inventory, logistics, suppliers & operational intelligence |
+<table>
+<tr>
 
----
+<td width="33%" align="center">
 
-# 🧭 Explore the Dashboards
+### 🛒
 
-### 🛒 FreshBasket Dashboard
+## FreshBasket
 
-> **Retail Analytics • Sales Intelligence • Customer Insights**
+**Retail Intelligence**
 
-The FreshBasket dashboard provides a comprehensive view of grocery/retail operations, helping analyze sales performance, product trends, customer behavior, and overall business growth.
+Sales • Products • Customers
+Revenue • Trends • Performance
 
-<p align="center">
+</td>
 
-<!-- Replace with your actual GIF -->
+<td width="33%" align="center">
 
-<img src="assets/freshbasket.gif" width="90%" alt="FreshBasket Power BI Dashboard Demo"/>
+### 🍔
 
-</p>
+## Food Ordering
 
-### 📌 Key Analytics
+**Food & Delivery Analytics**
 
-* 💰 Revenue & sales performance
-* 🛍️ Product/category analysis
-* 👥 Customer behavior
-* 📈 Sales trends
-* 🏆 Top-performing products
-* 📍 Regional performance
-* 📊 KPI monitoring
-* 🔎 Interactive filtering & drill-down analysis
+Orders • Revenue • Customers
+Restaurants • Trends • Ratings
 
-### 🎯 Business Questions
+</td>
 
-**Which products generate the highest revenue?**
+<td width="33%" align="center">
 
-**Which categories are performing best?**
+### 🚚
 
-**How are sales changing over time?**
+## Supply Chain
 
-**Which customer segments contribute the most to revenue?**
+**Operational Intelligence**
 
----
+Inventory • Suppliers • Logistics
+Costs • Performance • Risks
 
-# 🍔 Food Ordering Dashboard
+</td>
 
-> **Food Delivery Analytics • Customer Intelligence • Order Performance**
-
-An interactive analytics solution for understanding food-ordering operations through sales, order volume, customer behavior, restaurant/product performance, and delivery-related metrics.
-
-<p align="center">
-
-<!-- Replace with your actual GIF -->
-
-<img src="assets/food-ordering.gif" width="90%" alt="Food Ordering Power BI Dashboard Demo"/>
-
-</p>
-
-### 📌 Key Analytics
-
-* 🍽️ Total orders
-* 💵 Revenue & average order value
-* 👥 Customer analysis
-* 🏪 Restaurant/category performance
-* ⏱️ Order & delivery trends
-* ⭐ Ratings & customer experience
-* 📅 Time-based analysis
-* 📈 Growth & performance trends
-
-### 🎯 Business Questions
-
-**What are the most popular food categories?**
-
-**Which restaurants/products drive the most revenue?**
-
-**When is order demand highest?**
-
-**What customer patterns can be identified?**
-
-**How does customer experience impact performance?**
+</tr>
+</table>
 
 ---
 
-# 🚚 BI Supply Chain Intelligence
-
-> **Supply Chain Analytics • Operational Intelligence • Inventory Optimization**
-
-A decision-support dashboard designed to provide visibility across supply-chain operations and help identify opportunities for improving inventory, suppliers, logistics, and overall operational efficiency.
-
-<p align="center">
-
-<!-- Replace with your actual GIF -->
-
-<img src="assets/supply-chain.gif" width="90%" alt="Supply Chain Intelligence Power BI Dashboard Demo"/>
-
-</p>
-
-### 📌 Key Analytics
-
-* 📦 Inventory monitoring
-* 🚛 Logistics performance
-* 🏭 Supplier analysis
-* 📍 Regional supply-chain insights
-* ⏱️ Lead-time analysis
-* 💰 Cost analysis
-* 📊 Operational KPIs
-* ⚠️ Risk & performance monitoring
-* 📈 Trend analysis
-
-### 🎯 Business Questions
-
-**Which suppliers are performing best?**
-
-**Where are supply-chain bottlenecks occurring?**
-
-**Which products require inventory attention?**
-
-**How can operational costs be optimized?**
-
-**What trends can help improve supply-chain planning?**
-
----
-
-# 🧠 Analytics Capabilities
-
-These dashboards focus on more than just displaying charts — they are designed around **business questions and decision-making**.
+# ⚡ The Analytics Experience
 
 ```text
-                    ┌───────────────────────┐
-                    │       RAW DATA        │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │   DATA PREPARATION    │
-                    │   Power Query / ETL   │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │    DATA MODELING      │
-                    │ Relationships + DAX   │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     VISUALIZATION     │
-                    │   Power BI Reports    │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │  BUSINESS INSIGHTS    │
-                    │  → Decisions → Action │
-                    └───────────────────────┘
+                        ┌─────────────────┐
+                        │    RAW DATA     │
+                        └────────┬────────┘
+                                 ↓
+                     ┌───────────────────────┐
+                     │   POWER QUERY / ETL   │
+                     │ Clean • Transform     │
+                     └───────────┬───────────┘
+                                 ↓
+                     ┌───────────────────────┐
+                     │     DATA MODEL        │
+                     │ Relationships • Star  │
+                     │ Schema • Dimensions   │
+                     └───────────┬───────────┘
+                                 ↓
+                     ┌───────────────────────┐
+                     │        DAX            │
+                     │ Measures • KPIs • TI   │
+                     └───────────┬───────────┘
+                                 ↓
+                     ┌───────────────────────┐
+                     │    VISUALIZATION      │
+                     │ Charts • KPIs • Maps  │
+                     └───────────┬───────────┘
+                                 ↓
+                     ┌───────────────────────┐
+                     │   BUSINESS INSIGHTS   │
+                     └───────────┬───────────┘
+                                 ↓
+                     ┌───────────────────────┐
+                     │  DATA-DRIVEN ACTION   │
+                     └───────────────────────┘
 ```
 
 ---
 
-# ⚡ Interactive Features
+# 🛒 01 — FreshBasket Dashboard
 
-The dashboards are designed to provide an **interactive analytical experience** rather than static reporting.
+### Retail Analytics • Sales Intelligence • Customer Insights
 
-### 🎛️ Dynamic Filtering
+<p align="center">
+  <img src="assets/freshbasket.gif" width="95%" alt="FreshBasket Dashboard"/>
+</p>
 
-Slice and filter information by dimensions such as:
+### 🎯 What does it answer?
 
-`Date` • `Category` • `Product` • `Region` • `Customer` • `Supplier`
+> **How is the business performing, what is driving revenue, and where are the biggest opportunities?**
 
-### 🔍 Drill-Down Analysis
+### 📊 Analytics Layer
 
-Move from high-level KPIs to detailed business-level information.
+| Area               | Insights                            |
+| ------------------ | ----------------------------------- |
+| 💰 **Revenue**     | Overall sales & revenue performance |
+| 🛍️ **Products**   | Best & worst performing products    |
+| 📦 **Categories**  | Category-level contribution         |
+| 👥 **Customers**   | Customer behavior & segments        |
+| 📈 **Trends**      | Daily / monthly / yearly patterns   |
+| 🌎 **Regions**     | Regional performance                |
+| 🏆 **Performance** | Top performers & growth             |
 
-**Overview → Category → Product → Transaction**
+### 🔎 Interactive Analysis
 
-### 🖱️ Cross-Filtering
+```text
+YEAR
+  ↓
+MONTH
+  ↓
+CATEGORY
+  ↓
+PRODUCT
+  ↓
+TRANSACTION
+```
 
-Selecting one visual dynamically updates related visuals across the dashboard.
+Users can move from **high-level business KPIs → detailed product-level insights** through interactive filters and drill-downs.
 
-### 📊 Dynamic KPIs
+---
 
-Key metrics automatically respond to selected filters and reporting periods.
+# 🍔 02 — Food Ordering Dashboard
 
-### 📅 Time Intelligence
+### Food Delivery • Customer Analytics • Order Intelligence
 
-Analyze:
+<p align="center">
+  <img src="assets/food-ordering.gif" width="95%" alt="Food Ordering Dashboard"/>
+</p>
 
-* Daily performance
-* Monthly trends
-* Year-over-Year changes
-* Growth patterns
-* Seasonal behavior
+### 🎯 What does it answer?
 
-### 🧩 Interactive Navigation
+> **What are customers ordering, when are they ordering, and what drives food-ordering performance?**
 
-Designed with dashboard navigation to move between:
+### 📊 Analytics Layer
 
-`Overview → Performance → Detailed Analysis → Insights`
+| Area               | Insights                      |
+| ------------------ | ----------------------------- |
+| 🍽️ **Orders**     | Total order volume            |
+| 💵 **Revenue**     | Revenue & average order value |
+| 👥 **Customers**   | Customer behavior             |
+| 🏪 **Restaurants** | Restaurant performance        |
+| ⭐ **Ratings**      | Customer experience           |
+| ⏱️ **Time**        | Peak ordering periods         |
+| 📈 **Growth**      | Performance trends            |
+
+### 🔥 Key Questions
+
+**Which restaurants generate the most revenue?**
+
+**Which food categories are most popular?**
+
+**When does demand peak?**
+
+**What factors influence customer experience?**
+
+---
+
+# 🚚 03 — BI Supply Chain Intelligence
+
+### Supply Chain Analytics • Inventory • Logistics • Supplier Intelligence
+
+<p align="center">
+  <img src="assets/supply-chain.gif" width="95%" alt="BI Supply Chain Intelligence Dashboard"/>
+</p>
+
+### 🎯 What does it answer?
+
+> **Where are operational bottlenecks occurring, how efficiently is the supply chain performing, and where can costs be optimized?**
+
+### 📊 Intelligence Layer
+
+| Area             | Insights                         |
+| ---------------- | -------------------------------- |
+| 📦 **Inventory** | Stock levels & movement          |
+| 🏭 **Suppliers** | Supplier performance             |
+| 🚛 **Logistics** | Transportation insights          |
+| ⏱️ **Lead Time** | Delivery & processing efficiency |
+| 💰 **Costs**     | Operational cost analysis        |
+| ⚠️ **Risk**      | Potential supply-chain issues    |
+| 🌍 **Regions**   | Geographic performance           |
+
+---
+
+# 🎛️ Interactive BI Features
+
+<table>
+<tr>
+<td align="center">🎚️<br><b>Dynamic Filters</b><br><sub>Slice data instantly</sub></td>
+<td align="center">🔍<br><b>Drill Down</b><br><sub>Overview → Details</sub></td>
+<td align="center">🖱️<br><b>Cross Filtering</b><br><sub>Visual interaction</sub></td>
+<td align="center">📅<br><b>Time Intelligence</b><br><sub>Trends & growth</sub></td>
+</tr>
+
+<tr>
+<td align="center">📊<br><b>Dynamic KPIs</b><br><sub>Context-aware metrics</sub></td>
+<td align="center">🧩<br><b>Navigation</b><br><sub>Page-to-page flow</sub></td>
+<td align="center">💡<br><b>Insights</b><br><sub>Business storytelling</sub></td>
+<td align="center">🎨<br><b>UX Design</b><br><sub>Clean visual hierarchy</sub></td>
+</tr>
+</table>
+
+---
+
+# 📈 KPI Command Center
+
+The dashboards are designed around a **KPI-first approach**.
+
+```text
+╭────────────────╮   ╭────────────────╮   ╭────────────────╮
+│     💰         │   │      📦        │   │      👥        │
+│    REVENUE     │   │     ORDERS     │   │   CUSTOMERS    │
+│      ↑         │   │       ↑        │   │       ↑        │
+╰────────────────╯   ╰────────────────╯   ╰────────────────╯
+
+╭────────────────╮   ╭────────────────╮   ╭────────────────╮
+│      📈        │   │      ⭐        │   │      🚚        │
+│     GROWTH     │   │    RATING     │   │   EFFICIENCY   │
+│      ↑         │   │       ↑        │   │       ↑        │
+╰────────────────╯   ╰────────────────╯   ╰────────────────╯
+```
+
+---
+
+# 🧠 Business Intelligence Framework
+
+### 01 — WHAT HAPPENED?
+
+📊 Monitor KPIs and historical performance.
+
+↓
+
+### 02 — WHERE DID IT HAPPEN?
+
+🔎 Identify products, customers, regions, suppliers, or categories driving the result.
+
+↓
+
+### 03 — WHY DID IT HAPPEN?
+
+🧠 Analyze trends, relationships, and contributing factors.
+
+↓
+
+### 04 — WHAT SHOULD WE DO?
+
+🚀 Turn insights into business decisions.
 
 ---
 
@@ -231,203 +288,200 @@ Designed with dashboard navigation to move between:
 
 <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-Data%20Analysis-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-Data%20Transformation-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-BI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge"/>
 
 </p>
 
-### Core Technologies
+### 🔧 Core Technologies
 
-| Technology                 | Purpose                           |
-| -------------------------- | --------------------------------- |
-| 🟡 **Power BI**            | Dashboard & visualization         |
-| 🔄 **Power Query**         | Data cleaning & transformation    |
-| 🧮 **DAX**                 | Measures, KPIs & calculations     |
-| 🗂️ **Data Modeling**      | Relationships & analytical models |
-| 📊 **Interactive Visuals** | Business analysis                 |
-| 🎨 **UI/UX Design**        | Dashboard experience              |
+**Power BI**
+Interactive dashboards, reports & visualization.
 
----
+**Power Query**
+Data cleaning, transformation & ETL.
 
-# 📐 Dashboard Design Philosophy
+**DAX**
+Measures, calculated columns, KPIs & time intelligence.
 
-The dashboards follow a simple principle:
+**Data Modeling**
+Relationships, dimensions, facts & analytical structures.
 
-> ### **Don't just show the data. Explain what the data means.**
-
-Each dashboard is structured around:
-
-**KPIs → Trends → Comparisons → Details → Insights**
-
-This allows users to quickly move from:
-
-> **"What happened?"**
-
-to
-
-> **"Why did it happen?"**
-
-and finally:
-
-> **"What should we do?"**
+**Data Visualization**
+Charts, cards, slicers, maps & interactive storytelling.
 
 ---
 
-# 📊 KPI Framework
+# 🎨 Dashboard Design System
 
-The dashboards use KPI-driven storytelling to provide an executive-level overview before moving into detailed analytics.
+The dashboards follow a consistent visual hierarchy:
 
 ```text
-┌────────────┐  ┌────────────┐  ┌────────────┐  ┌────────────┐
-│   REVENUE  │  │   ORDERS   │  │ CUSTOMERS  │  │  GROWTH    │
-│     💰     │  │     🛒     │  │     👥     │  │     📈     │
-└────────────┘  └────────────┘  └────────────┘  └────────────┘
+                    EXECUTIVE SUMMARY
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │     KPIs    │
+                    └──────┬──────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+          PERFORMANCE                TRENDS
+              │                         │
+              └────────────┬────────────┘
+                           ▼
+                     COMPARISONS
+                           │
+                           ▼
+                    DETAILED ANALYSIS
+                           │
+                           ▼
+                      INSIGHTS
 ```
 
+The goal is simple:
+
+> **Less clutter. More insight.**
+
 ---
 
-# 📁 Repository Structure
+# 📂 Project Structure
 
 ```text
-PowerBI-Analytics/
+📦 PowerBI-Analytics
 │
-├── 📊 FreshBasket/
-│   ├── FreshBasket.pbix
-│   ├── assets/
-│   │   └── freshbasket.gif
-│   └── screenshots/
+├── 📁 FreshBasket
+│   ├── 📊 FreshBasket.pbix
+│   ├── 🎞️ freshbasket.gif
+│   └── 🖼️ screenshots/
 │
-├── 🍔 Food-Ordering/
-│   ├── Food_Ordering.pbix
-│   ├── assets/
-│   │   └── food-ordering.gif
-│   └── screenshots/
+├── 📁 Food-Ordering
+│   ├── 📊 Food_Ordering.pbix
+│   ├── 🎞️ food-ordering.gif
+│   └── 🖼️ screenshots/
 │
-├── 🚚 Supply-Chain-Intelligence/
-│   ├── BI_Supply_Chain_Intelligence.pbix
-│   ├── assets/
-│   │   └── supply-chain.gif
-│   └── screenshots/
+├── 📁 BI-Supply-Chain-Intelligence
+│   ├── 📊 BI_Supply_Chain_Intelligence.pbix
+│   ├── 🎞️ supply-chain.gif
+│   └── 🖼️ screenshots/
 │
 └── 📄 README.md
 ```
 
 ---
 
-# 🎥 Dashboard Preview
+# 🎥 Live Dashboard Showcase
+
+## 🛒 FreshBasket
 
 <p align="center">
-
-### 🛒 FreshBasket
-
-<img src="assets/freshbasket.gif" width="85%" alt="FreshBasket Dashboard"/>
-
-<br><br>
-
-### 🍔 Food Ordering
-
-<img src="assets/food-ordering.gif" width="85%" alt="Food Ordering Dashboard"/>
-
-<br><br>
-
-### 🚚 Supply Chain Intelligence
-
-<img src="assets/supply-chain.gif" width="85%" alt="Supply Chain Intelligence Dashboard"/>
-
+<img src="assets/freshbasket.gif" width="90%"/>
 </p>
 
 ---
 
-# 💡 From Data → Insight → Action
+## 🍔 Food Ordering
+
+<p align="center">
+<img src="assets/food-ordering.gif" width="90%"/>
+</p>
+
+---
+
+## 🚚 Supply Chain Intelligence
+
+<p align="center">
+<img src="assets/supply-chain.gif" width="90%"/>
+</p>
+
+---
+
+# 🚀 Future Roadmap
 
 ```text
-             DATA
-              │
-              ▼
-       ┌──────────────┐
-       │ Transformation│
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │ Data Modeling│
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │     DAX      │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │ Visualization│
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │   INSIGHTS   │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │   DECISIONS  │
-       └──────────────┘
+                         CURRENT
+                            │
+                            ▼
+                  ┌──────────────────┐
+                  │ Interactive BI   │
+                  │    Dashboards    │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ AI-Powered       │
+                  │ Insights         │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Predictive       │
+                  │ Analytics        │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Forecasting      │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Real-Time BI     │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ 🚀 Intelligent   │
+                  │ Decision System  │
+                  └──────────────────┘
 ```
 
----
+### 🔮 Planned Enhancements
 
-# 🌟 What This Project Demonstrates
-
-### 📌 Business Intelligence
-
-Converting business requirements into analytical dashboards.
-
-### 📌 Data Analytics
-
-Identifying trends, patterns, anomalies, and performance indicators.
-
-### 📌 Data Visualization
-
-Creating intuitive and visually engaging reports.
-
-### 📌 DAX & KPI Development
-
-Building calculated measures and dynamic business metrics.
-
-### 📌 Data Modeling
-
-Creating relationships and analytical structures for efficient reporting.
-
-### 📌 Dashboard Storytelling
-
-Presenting complex information in a way that supports fast decision-making.
+* 🤖 AI-generated business insights
+* 🔮 Predictive forecasting
+* 🚨 Automated anomaly detection
+* 📡 Real-time dashboards
+* ☁️ Power BI Service deployment
+* 🔄 Automated data refresh
+* 📱 Mobile BI experience
+* 🧠 Natural Language Q&A
 
 ---
 
-# 🚀 Future Enhancements
+# 💡 The Philosophy
 
-* [ ] 🔴 Real-time data integration
-* [ ] 🤖 AI-powered insights
-* [ ] 🔮 Predictive analytics
-* [ ] 📈 Forecasting models
-* [ ] 🚨 Automated anomaly detection
-* [ ] ☁️ Power BI Service deployment
-* [ ] 📱 Mobile dashboard optimization
-* [ ] 🔄 Automated data refresh
-* [ ] 🧠 Natural-language Q&A analytics
+> ### **Data is everywhere. Insight is not.**
+
+These dashboards are built to bridge that gap.
+
+**Raw Data**
+↓
+**Clean Data**
+↓
+**Structured Data**
+↓
+**Visual Analytics**
+↓
+**Business Intelligence**
+↓
+
+### **Better Decisions 🚀**
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 About
+
+<p align="center">
 
 ### **Aishi De**
 
-**Data Analytics • Business Intelligence • Power BI • AI**
+**Business Intelligence • Data Analytics • Power BI • AI**
 
-<p align="center">
+<br>
 
-✨ Turning complex datasets into simple, actionable stories. ✨
+<i>Building visual experiences that turn data into decisions.</i>
 
 </p>
 
@@ -435,8 +489,18 @@ Presenting complex information in a way that supports fast decision-making.
 
 <p align="center">
 
-### ⭐ If you found this project useful, consider giving the repository a star!
+### ⭐ Star this repository if you found it interesting!
 
-**Made with 📊 Power BI & ❤️ for Data**
+<br>
+
+<img src="https://img.shields.io/badge/Built%20with-POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Driven%20by-DATA-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focused%20on-INSIGHTS-00A67E?style=for-the-badge"/>
+
+<br><br>
+
+**Turning Data → Analytics → Intelligence → Action**
 
 </p>
