@@ -1,137 +1,442 @@
-# 📊 Power BI Analytics & Business Intelligence Portfolio[cite: 1]
+# 📊 Power BI Analytics & Business Intelligence
 
-A curated collection of end-to-end **Power BI** dashboards, automated reporting solutions, DAX calculation libraries, and dimensional data models designed to transform raw business data into actionable visual insights[cite: 1].
+<p align="center">
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
-[![Power Query](https://img.shields.io/badge/ETL-Power%20Query%20M-FF5722?style=for-the-badge&logo=databricks&logoColor=white)](https://powerquery.microsoft.com/)
-[![Star Schema](https://img.shields.io/badge/Data%20Model-Star%20Schema-9C27B0?style=for-the-badge&logo=diagram&logoColor=white)](#-data-architecture--star-schema)
-[![Status](https://img.shields.io/badge/Project%20Status-Complete%20%E2%9C%94%EF%B8%8F-00E676?style=for-the-badge&logo=checkmarx&logoColor=black)](#)
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-Business%20Intelligence-5B5CE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interactive-Dashboards-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
 
-<br/>
+</p>
 
----
+<h3 align="center">
+Turning Data into Decisions 🚀
+</h3>
 
-## 📑 Table of Contents[cite: 1]
-
-- [Overview](#-overview)[cite: 1]
-- [Repository Structure](#-repository-structure)[cite: 1]
-- [Featured Dashboards & Projects](#-featured-dashboards--projects)[cite: 1]
-  - [1. Executive Sales & Revenue Analytics](#1-executive-sales--revenue-analytics)[cite: 1]
-  - [2. Customer Retention & Churn Analysis](#2-customer-retention--churn-analysis)[cite: 1]
-  - [3. Supply Chain & Inventory Optimization](#3-supply-chain--inventory-optimization)[cite: 1]
-  - [4. Financial Performance & Variance Tracking](#4-financial-performance--variance-tracking)[cite: 1]
-- [Data Architecture & Modeling](#-data-architecture--modeling)[cite: 1]
-- [DAX Formula Library](#-dax-formula-library)[cite: 1]
-- [Power Query (M) ETL Transformations](#-power-query-m-etl-transformations)[cite: 1]
-- [How to Use This Repository](#-how-to-use-this-repository)[cite: 1]
-- [Tools & Tech Stack](#-tools--tech-stack)[cite: 1]
-- [Connect & Feedback](#-connect--feedback)[cite: 1]
+<p align="center">
+A collection of interactive <b>Power BI dashboards</b> designed to transform raw business data into meaningful insights, actionable KPIs, and decision-ready intelligence.
+</p>
 
 ---
 
-## 🌟 Overview[cite: 1]
+## ✨ Dashboard Collection
 
-This repository demonstrates practical implementations of Business Intelligence best practices[cite: 1]:
-- **Star Schema Dimensional Modeling** (Fact & Dimension design, bridge tables, surrogate keys)[cite: 1].
-- **Advanced DAX Calculations** (Time Intelligence, dynamic ranking, matrix decomposition, What-If scenario modeling)[cite: 1].
-- **Performance Optimization** (DAX Studio analysis, VertiPaq engine optimization, aggregation management)[cite: 1].
-- **User-Centric UI/UX Design** (Custom tooltips, dynamic bookmarking, synchronized drill-throughs, accessible color palettes)[cite: 1].
+| Dashboard                           | Domain           | Focus                                                      |
+| ----------------------------------- | ---------------- | ---------------------------------------------------------- |
+| 🛒 **FreshBasket Dashboard**        | Retail / Grocery | Sales, customers, products & performance                   |
+| 🍔 **Food Ordering Dashboard**      | Food & Delivery  | Orders, revenue, customers & delivery analytics            |
+| 🚚 **BI Supply Chain Intelligence** | Supply Chain     | Inventory, logistics, suppliers & operational intelligence |
 
 ---
 
-## 📁 Repository Structure[cite: 1]
+# 🧭 Explore the Dashboards
 
-```plaintext
-powerbi-portfolio/
+### 🛒 FreshBasket Dashboard
+
+> **Retail Analytics • Sales Intelligence • Customer Insights**
+
+The FreshBasket dashboard provides a comprehensive view of grocery/retail operations, helping analyze sales performance, product trends, customer behavior, and overall business growth.
+
+<p align="center">
+
+<!-- Replace with your actual GIF -->
+
+<img src="assets/freshbasket.gif" width="90%" alt="FreshBasket Power BI Dashboard Demo"/>
+
+</p>
+
+### 📌 Key Analytics
+
+* 💰 Revenue & sales performance
+* 🛍️ Product/category analysis
+* 👥 Customer behavior
+* 📈 Sales trends
+* 🏆 Top-performing products
+* 📍 Regional performance
+* 📊 KPI monitoring
+* 🔎 Interactive filtering & drill-down analysis
+
+### 🎯 Business Questions
+
+**Which products generate the highest revenue?**
+
+**Which categories are performing best?**
+
+**How are sales changing over time?**
+
+**Which customer segments contribute the most to revenue?**
+
+---
+
+# 🍔 Food Ordering Dashboard
+
+> **Food Delivery Analytics • Customer Intelligence • Order Performance**
+
+An interactive analytics solution for understanding food-ordering operations through sales, order volume, customer behavior, restaurant/product performance, and delivery-related metrics.
+
+<p align="center">
+
+<!-- Replace with your actual GIF -->
+
+<img src="assets/food-ordering.gif" width="90%" alt="Food Ordering Power BI Dashboard Demo"/>
+
+</p>
+
+### 📌 Key Analytics
+
+* 🍽️ Total orders
+* 💵 Revenue & average order value
+* 👥 Customer analysis
+* 🏪 Restaurant/category performance
+* ⏱️ Order & delivery trends
+* ⭐ Ratings & customer experience
+* 📅 Time-based analysis
+* 📈 Growth & performance trends
+
+### 🎯 Business Questions
+
+**What are the most popular food categories?**
+
+**Which restaurants/products drive the most revenue?**
+
+**When is order demand highest?**
+
+**What customer patterns can be identified?**
+
+**How does customer experience impact performance?**
+
+---
+
+# 🚚 BI Supply Chain Intelligence
+
+> **Supply Chain Analytics • Operational Intelligence • Inventory Optimization**
+
+A decision-support dashboard designed to provide visibility across supply-chain operations and help identify opportunities for improving inventory, suppliers, logistics, and overall operational efficiency.
+
+<p align="center">
+
+<!-- Replace with your actual GIF -->
+
+<img src="assets/supply-chain.gif" width="90%" alt="Supply Chain Intelligence Power BI Dashboard Demo"/>
+
+</p>
+
+### 📌 Key Analytics
+
+* 📦 Inventory monitoring
+* 🚛 Logistics performance
+* 🏭 Supplier analysis
+* 📍 Regional supply-chain insights
+* ⏱️ Lead-time analysis
+* 💰 Cost analysis
+* 📊 Operational KPIs
+* ⚠️ Risk & performance monitoring
+* 📈 Trend analysis
+
+### 🎯 Business Questions
+
+**Which suppliers are performing best?**
+
+**Where are supply-chain bottlenecks occurring?**
+
+**Which products require inventory attention?**
+
+**How can operational costs be optimized?**
+
+**What trends can help improve supply-chain planning?**
+
+---
+
+# 🧠 Analytics Capabilities
+
+These dashboards focus on more than just displaying charts — they are designed around **business questions and decision-making**.
+
+```text
+                    ┌───────────────────────┐
+                    │       RAW DATA        │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │   DATA PREPARATION    │
+                    │   Power Query / ETL   │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │    DATA MODELING      │
+                    │ Relationships + DAX   │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │     VISUALIZATION     │
+                    │   Power BI Reports    │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │  BUSINESS INSIGHTS    │
+                    │  → Decisions → Action │
+                    └───────────────────────┘
+```
+
+---
+
+# ⚡ Interactive Features
+
+The dashboards are designed to provide an **interactive analytical experience** rather than static reporting.
+
+### 🎛️ Dynamic Filtering
+
+Slice and filter information by dimensions such as:
+
+`Date` • `Category` • `Product` • `Region` • `Customer` • `Supplier`
+
+### 🔍 Drill-Down Analysis
+
+Move from high-level KPIs to detailed business-level information.
+
+**Overview → Category → Product → Transaction**
+
+### 🖱️ Cross-Filtering
+
+Selecting one visual dynamically updates related visuals across the dashboard.
+
+### 📊 Dynamic KPIs
+
+Key metrics automatically respond to selected filters and reporting periods.
+
+### 📅 Time Intelligence
+
+Analyze:
+
+* Daily performance
+* Monthly trends
+* Year-over-Year changes
+* Growth patterns
+* Seasonal behavior
+
+### 🧩 Interactive Navigation
+
+Designed with dashboard navigation to move between:
+
+`Overview → Performance → Detailed Analysis → Insights`
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-Data%20Analysis-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-Data%20Transformation-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-BI-6C63FF?style=for-the-badge"/>
+
+</p>
+
+### Core Technologies
+
+| Technology                 | Purpose                           |
+| -------------------------- | --------------------------------- |
+| 🟡 **Power BI**            | Dashboard & visualization         |
+| 🔄 **Power Query**         | Data cleaning & transformation    |
+| 🧮 **DAX**                 | Measures, KPIs & calculations     |
+| 🗂️ **Data Modeling**      | Relationships & analytical models |
+| 📊 **Interactive Visuals** | Business analysis                 |
+| 🎨 **UI/UX Design**        | Dashboard experience              |
+
+---
+
+# 📐 Dashboard Design Philosophy
+
+The dashboards follow a simple principle:
+
+> ### **Don't just show the data. Explain what the data means.**
+
+Each dashboard is structured around:
+
+**KPIs → Trends → Comparisons → Details → Insights**
+
+This allows users to quickly move from:
+
+> **"What happened?"**
+
+to
+
+> **"Why did it happen?"**
+
+and finally:
+
+> **"What should we do?"**
+
+---
+
+# 📊 KPI Framework
+
+The dashboards use KPI-driven storytelling to provide an executive-level overview before moving into detailed analytics.
+
+```text
+┌────────────┐  ┌────────────┐  ┌────────────┐  ┌────────────┐
+│   REVENUE  │  │   ORDERS   │  │ CUSTOMERS  │  │  GROWTH    │
+│     💰     │  │     🛒     │  │     👥     │  │     📈     │
+└────────────┘  └────────────┘  └────────────┘  └────────────┘
+```
+
+---
+
+# 📁 Repository Structure
+
+```text
+PowerBI-Analytics/
 │
-├── dashboards/
-│   ├── Sales_Executive_Report.pbix
-│   ├── Customer_Retention_Cohort.pbix
-│   ├── Supply_Chain_Operations.pbix
-│   └── Finance_Variance_Matrix.pbix
+├── 📊 FreshBasket/
+│   ├── FreshBasket.pbix
+│   ├── assets/
+│   │   └── freshbasket.gif
+│   └── screenshots/
 │
-├── dax-scripts/
-│   ├── time_intelligence.dax
-│   ├── sales_metrics.dax
-│   ├── cohort_retention.dax
-│   └── dynamic_ranking_abc.dax
+├── 🍔 Food-Ordering/
+│   ├── Food_Ordering.pbix
+│   ├── assets/
+│   │   └── food-ordering.gif
+│   └── screenshots/
 │
-├── power-query-m/
-│   ├── dynamic_calendar_generator.m
-│   ├── api_data_ingestion.m
-│   └── data_cleaning_transforms.m
+├── 🚚 Supply-Chain-Intelligence/
+│   ├── BI_Supply_Chain_Intelligence.pbix
+│   ├── assets/
+│   │   └── supply-chain.gif
+│   └── screenshots/
 │
-├── data/
-│   ├── sample-sales-dataset.csv
-│   └── dimensional_lookup_tables/
-│
-├── assets/
-│   ├── architecture_diagram.png
-│   └── previews/
-│       ├── sales_preview.png
-│       ├── churn_preview.png
-│       └── supply_chain_preview.png
-│
-├── templates/
-│   └── corporate_theme_template.pbit
-│
-└── README.md
-```[cite: 1]
+└── 📄 README.md
+```
 
 ---
 
-## 🚀 Featured Dashboards & Projects[cite: 1]
+# 🎥 Dashboard Preview
 
-### 1. Executive Sales & Revenue Analytics[cite: 1]
-* **Objective:** Track global sales pipeline, margin realization, and regional quarterly targets[cite: 1].
-* **Key Features:**[cite: 1]
-  - Dynamic MoM, YoY, and YTD performance KPIs[cite: 1].
-  - Drill-down hierarchies (Region → Country → Territory → Product Category)[cite: 1].
-  - Decomposition Tree for revenue driver analysis[cite: 1].
-  - Custom tooltips highlighting top 5 performing SKUs per segment[cite: 1].
-* **File:** [`dashboards/Sales_Executive_Report.pbix`](dashboards/)[cite: 1]
+<p align="center">
 
-```plaintext
-[ Preview Placeholder: assets/previews/sales_preview.png ]
-```[cite: 1]
+### 🛒 FreshBasket
 
----
+<img src="assets/freshbasket.gif" width="85%" alt="FreshBasket Dashboard"/>
 
-### 2. Customer Retention & Churn Analysis[cite: 1]
-* **Objective:** Evaluate user lifetime value (LTV), cohort retention curves, and early-warning churn indicators[cite: 1].
-* **Key Features:**[cite: 1]
-  - Monthly active customer cohort matrices[cite: 1].
-  - RFM (Recency, Frequency, Monetary) customer segmentation scoring[cite: 1].
-  - Churn risk classification with interactive sensitivity threshold sliders[cite: 1].
-* **File:** [`dashboards/Customer_Retention_Cohort.pbix`](dashboards/)[cite: 1]
+<br><br>
 
-```plaintext
-[ Preview Placeholder: assets/previews/churn_preview.png ]
-```[cite: 1]
+### 🍔 Food Ordering
+
+<img src="assets/food-ordering.gif" width="85%" alt="Food Ordering Dashboard"/>
+
+<br><br>
+
+### 🚚 Supply Chain Intelligence
+
+<img src="assets/supply-chain.gif" width="85%" alt="Supply Chain Intelligence Dashboard"/>
+
+</p>
 
 ---
 
-### 3. Supply Chain & Inventory Optimization[cite: 1]
-* **Objective:** Monitor warehouse lead times, fulfillment rates (OTIF), and safety stock buffers[cite: 1].
-* **Key Features:**[cite: 1]
-  - ABC/XYZ inventory segmentation matrix[cite: 1].
-  - Stockout risk alerts based on lead time standard deviation[cite: 1].
-  - Interactive map visual with custom geocoded supplier routing[cite: 1].
-* **File:** [`dashboards/Supply_Chain_Operations.pbix`](dashboards/)[cite: 1]
+# 💡 From Data → Insight → Action
+
+```text
+             DATA
+              │
+              ▼
+       ┌──────────────┐
+       │ Transformation│
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │ Data Modeling│
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │     DAX      │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │ Visualization│
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   INSIGHTS   │
+       └──────┬───────┘
+              │
+              ▼
+       ┌──────────────┐
+       │   DECISIONS  │
+       └──────────────┘
+```
 
 ---
 
-### 4. Financial Performance & Variance Tracking[cite: 1]
-* **Objective:** Compare Actual vs. Budget vs. Forecast P&L breakdowns across multi-currency operations[cite: 1].
-* **Key Features:**[cite: 1]
-  - Waterfalls for EBITDA reconciliation[cite: 1].
-  - Dynamic currency conversion selector using disconnected exchange rate tables[cite: 1].
-  - Smart Narrative summarizing material monthly budget variances[cite: 1].
-* **File:** [`dashboards/Finance_Variance_Matrix.pbix`](dashboards/)[cite: 1]
+# 🌟 What This Project Demonstrates
+
+### 📌 Business Intelligence
+
+Converting business requirements into analytical dashboards.
+
+### 📌 Data Analytics
+
+Identifying trends, patterns, anomalies, and performance indicators.
+
+### 📌 Data Visualization
+
+Creating intuitive and visually engaging reports.
+
+### 📌 DAX & KPI Development
+
+Building calculated measures and dynamic business metrics.
+
+### 📌 Data Modeling
+
+Creating relationships and analytical structures for efficient reporting.
+
+### 📌 Dashboard Storytelling
+
+Presenting complex information in a way that supports fast decision-making.
 
 ---
 
-## 🏗️ Data Architecture & Modeling[cite: 1]
+# 🚀 Future Enhancements
 
-All solutions adhere to scalable **Kimball Dimensional Modeling** principles[cite: 1]:
+* [ ] 🔴 Real-time data integration
+* [ ] 🤖 AI-powered insights
+* [ ] 🔮 Predictive analytics
+* [ ] 📈 Forecasting models
+* [ ] 🚨 Automated anomaly detection
+* [ ] ☁️ Power BI Service deployment
+* [ ] 📱 Mobile dashboard optimization
+* [ ] 🔄 Automated data refresh
+* [ ] 🧠 Natural-language Q&A analytics
+
+---
+
+# 👩‍💻 Author
+
+### **Aishi De**
+
+**Data Analytics • Business Intelligence • Power BI • AI**
+
+<p align="center">
+
+✨ Turning complex datasets into simple, actionable stories. ✨
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you found this project useful, consider giving the repository a star!
+
+**Made with 📊 Power BI & ❤️ for Data**
+
+</p>
